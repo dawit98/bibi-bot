@@ -1,3 +1,10 @@
+import random
+quotes = [
+    "Make money, be happy — Bibi 💖",
+    "The market loves the calm — stay steady 📉📈",
+    "No panic, just patience 🧘‍♀️",
+    "You win when you wait 🕰️",
+    "Every dip is a blessing in disguise 🌧️→🌞"
 import streamlit as st
 from bibi_bot import get_signal
 from datetime import date
